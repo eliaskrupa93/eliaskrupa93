@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **eliaskrupa93@gmail.com**
 
-- 📄 Know about my experiences [https://resumeupdated.tiiny.site/](resume)
+- 📄 Know about my experiences [resume](https://resumeupdated.tiiny.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
