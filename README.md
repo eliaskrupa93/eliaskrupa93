@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elias</h1>
 <h3 align="center">A computer science and cybersecurity student.</h3>
 
-- 🔭 I’m currently working on **Nmap scanner & report generator**
+- 🔭 I’m currently working on **nmap scanner & report generator**
 
 - 🌱 I’m currently learning **networking**
 
